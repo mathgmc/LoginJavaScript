@@ -1,5 +1,5 @@
 {
-  "name": "nodeserver",
+  "name": "login-server",
   "version": "1.0.0",
   "description": "A simple server in node",
   "main": "server.js",
